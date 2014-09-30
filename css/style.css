@@ -1,0 +1,9 @@
+html {
+	overflow: visible;
+	background: #404040;
+}
+
+body {
+	height: auto;
+	width: 100%;
+}
